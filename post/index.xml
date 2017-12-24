@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ashley Chen</title>
-    <link>https://ashleychen9.github.io/</link>
-    <description>Recent content on Ashley Chen</description>
+    <title>Posts on Ashley Chen</title>
+    <link>https://ashleychen9.github.io/post/</link>
+    <description>Recent content in Posts on Ashley Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (c) 2017, Ashley Chen; all rights reserved.</copyright>
     <lastBuildDate>Sun, 24 Dec 2017 12:28:48 +0000</lastBuildDate>
     
-	<atom:link href="https://ashleychen9.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ashleychen9.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
